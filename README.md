@@ -1,5 +1,7 @@
 # Hands-On TEST 2
 
+This hands-on test **must be completed individually** by all the students. **DO NOT** give your solution to others, otherwise there will be serious consequences. See College Academic Policy
+
 ## Exercise #1
 
 Create an Android app that allows users to attend a Quiz. In the Main
